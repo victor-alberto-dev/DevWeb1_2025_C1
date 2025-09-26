@@ -40,12 +40,13 @@ O código está organizado da seguinte forma para facilitar a manutenção:
 ├── assets/
 │   ├── icons/            # Ícones SVG das Hard Skills (java.svg, html5.svg, etc.)
 │   └── (perfil).jpg      # Minha foto de perfil
+├── README.md             # Explicação das funcionalidades da aplicação
 ├── index.html            # Arquivo principal com toda a estrutura do conteúdo
 └── style.css             # Arquivo com todas as regras de estilização
 ```
 
--   **`index.html`**: Utiliza tags semânticas do HTML5 (`<header>`, `<main>`, `<section>`) para melhor acessibilidade.
--   **`style.css`**: O layout principal das seções e dos cards foi construído utilizando **Flexbox**. As estilizações incluem efeitos de `hover` para interatividade e uma paleta de cores consistente.
+- **`index.html`**: Utiliza tags semânticas do HTML5 (`<header>`, `<main>`, `<section>`) para melhor acessibilidade.
+- **`style.css`**: O layout principal das seções e dos cards foi construído utilizando **Flexbox**. As estilizações incluem efeitos de `hover` para interatividade e uma paleta de cores consistente.
 
 ---
 
